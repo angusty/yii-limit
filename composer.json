@@ -1,5 +1,5 @@
 {
-    "name": "root/yii-limit",
+    "name": "angusty/yii-limit",
     "description": "依赖于yii的基于缓存的访问频率控制",
     "license": "MIT",
     "keywords": [
