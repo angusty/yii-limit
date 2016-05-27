@@ -13,6 +13,7 @@
             "email": "yboker1982@gmail.com"
         }
     ],
+    "minimum-stability": "dev",
     "require": {
         "php": ">=5.3.0",
         "yiisoft/yii": ">=2.0.0",
